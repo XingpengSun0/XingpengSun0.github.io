@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "CS176 Data Engineering in Python"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/2023-fall-teaching
+venue: "Purdue University, Department of Computer Science"
+date: 2023-08-01
+location: "West Lafayette, IN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Python programming, basic data structure, etc. Led a 2-hour lab session and 3-hour office hour per week as a graduate teaching assistant.  
