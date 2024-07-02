@@ -18,8 +18,8 @@ My research interest is in foundation model, robotics, and graphics. I am eager 
 
 News
 ======
-1. [06/2024]: [**TrustNavGPT**] is accepted by **IROS** 2024!
-1. [02/2024]: [**DL3DV-10K**](https://arxiv.org/abs/2312.16256) is accepted by **CVPR** 2024!
+1. 06/2024: **TrustNavGPT** is accepted by **IROS** 2024!
+1. 02/2024: [**DL3DV-10K**](https://arxiv.org/abs/2312.16256) is accepted by **CVPR** 2024!
 
 Publications
 ======
