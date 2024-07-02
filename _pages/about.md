@@ -12,17 +12,30 @@ About Me
 ======
 Welcome! I am Xingpeng Sun, a first-year Ph.D. student in Computer Science at [Purdue University](https://www.cs.purdue.edu/). I am fortunate to be advised by Prof. [Aniket Bera](https://scholar.google.com/citations?hl=en&user=q3UdHk4AAAAJ&view_op=list_works&sortby=pubdate). Previously, I received my B.S. degree in Computer Science and Mathematics at [University of Wisconsin-Madison](https://www.wisc.edu/) with Distinctive Scholastic Achievement. 
 
-My research interest is in foundation model, robotics, and AI safety. I am eager to work on the intersection of large language model (LLM) + robotics, focus on advancing the capabilities and safety of autonomous systems through enhanced natural language understanding and decision-making processes. I also work on the generative AI projects, and collected a 10K real-world scene dataset with my labmates to catalyze the development of a foundation model for learning 3D representation.
+My research interest is in foundation model, robotics, and graphics. I am eager to work on the intersection of large language model (LLM) + robotics, focus on advancing the capabilities and safety of autonomous systems through enhanced natural language understanding and decision-making processes. I also work on foundation model + graphics projects.
 
-**I am currently looking for intern position in Summer 2024! I am interested in all kinds of position related to large language model, vision language model, and robotics. Please contact me if you have any leads!**
+
 
 News
 ======
-1. Feb 2024: [**DL3DV-10K**](https://arxiv.org/abs/2312.16256) was accepted by **CVPR** 2024!
-1. Feb 2024: [**Beyond Text**](https://arxiv.org/abs/2402.03494) is on Arxiv!
+1. [06/2024]: [**TrustNavGPT**] is accepted by **IROS** 2024!
+1. [02/2024]: [**DL3DV-10K**](https://arxiv.org/abs/2312.16256) is accepted by **CVPR** 2024!
 
 Publications
 ======
+
+<ul>
+  <li style="display: flex; align-items: center;">
+    <img src="images/trustnavgpt.png" style="margin-right: 10px; width: 200px; height: 150px;">
+    <p>
+      <a href="#"><b>TrustNavGPT: Trust-Driven Audio-Guided Robot Navigation under Uncertainty with Large Language Models</b></a>
+      <br>
+      <b>Xingpeng Sun</b>, Yiran Zhang, Xindi Tang, Amrit Singh Bedi, Aniket Bera
+      <br>
+      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</i>. <br>      
+    </p>
+  </li>
+</ul>
 
 <ul>
   <li style="display: flex; align-items: center;">
@@ -47,12 +60,17 @@ Publications
       <br>
       Lu Ling, Yichen Sheng, Zhi Tu, Wentian Zhao, Cheng Xin, Kun Wan, Lantao Yu, Qianyu Guo, Zixun Yu, Yawen Lu, Xuanmao Li, <b>Xingpeng Sun</b>, Rohan Ashok, Aniruddha Mukherjee, Hao Kang, Xiangrui Kong, Gang Hua, Tianyi Zhang, Bedrich Benes, Aniket Bera
        <br>
-      <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024</i>. <br>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024</i>. <br>
       <a href="https://arxiv.org/abs/2312.16256">[arXiv]</a> 
       <a href="https://dl3dv-10k.github.io/DL3DV-10K/">[Project Page]</a>      
     </p>
   </li>
 </ul>
+
+
+Service
+------
+Conference Reviewer: IROS 2024, SIGGRAPH ASIA 2024, PACIFIC GRAPHICS 2024
 
 Miscellaneous
 ------
