@@ -32,7 +32,7 @@ Publications
       <br>
       <b>Xingpeng Sun</b>, Yiran Zhang, Xindi Tang, Amrit Singh Bedi, Aniket Bera
       <br>
-      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</i>. <br>      
+      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024 <b style="color: red;">(Oral)</b> </i>. <br>      
     </p>
   </li>
 </ul>

@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/Xingpeng_CV.pdf 
     
-  - title: "UW-Madison Course Guide"
-    url: https://xingpengs.github.io/
+  # - title: "UW-Madison Course Guide"
+  #   url: https://xingpengs.github.io/
