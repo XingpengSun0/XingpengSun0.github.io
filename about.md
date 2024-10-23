@@ -10,12 +10,12 @@ redirect_from:
 
 About Me
 ======
-Welcome! I am Xingpeng Sun, a second-year Ph.D. student in Computer Science at [Purdue University](https://www.cs.purdue.edu/). I am fortunate to be advised by [Prof. Aniket Bera](https://scholar.google.com/citations?hl=en&user=q3UdHk4AAAAJ&view_op=list_works&sortby=pubdate). Previously, I received my B.S. degree in Computer Science and Mathematics at [University of Wisconsin-Madison](https://www.wisc.edu/) with Distinctive Scholastic Achievement. I also conducted research internship at [Lightspeed Studios](https://www.lightspeed-studios.com/), where I had the previlege to be closely mentored by [Dr. Zherong Pan](https://dyingbrain.github.io/).
+Welcome! I am Xingpeng Sun, a second-year Ph.D. student in Computer Science at [Purdue University](https://www.cs.purdue.edu/). I am fortunate to be advised by [Prof. Aniket Bera](https://scholar.google.com/citations?hl=en&user=q3UdHk4AAAAJ&view_op=list_works&sortby=pubdate). Previously, I received my B.S. degree in Computer Science and Mathematics at [University of Wisconsin-Madison](https://www.wisc.edu/) with Distinctive Scholastic Achievement.
 
 
-My research interest is in foundation model, robotics, and graphics. I am eager to work on the intersection of large language model (LLM) + robotics & graphics, focus on advancing the capabilities and safety of autonomous systems through enhanced natural language understanding and decision-making processes. I also work on foundation model + graphics projects, developing text-guided trajectory generation and 3D assets editing.
+My research interest is in foundation model, robotics, and graphics. I am eager to work on the intersection of large language model (LLM) + robotics & graphics, focus on advancing the capabilities and safety of autonomous systems through enhanced natural language understanding and decision-making processes. I also work on text-guided trajectory generation and 3D assets editing.
 
-<b style="color: red;">I'm actively looking for research intern (LLM/VLM, Embodided AI, AIGC) for summer 2025.</b>
+<b style="color: red;">I am actively seeking research internship opportunities in LLM/VLM, Embodied AI, and AIGC for summer 2025. If you know of any exciting opportunities or just want to chat about potential collaborations, feel free to drop me an email.</b>
 
 News
 ======
